@@ -1,6 +1,6 @@
 # MongoDB Atlas Administration API — Service Account Authentication Demo
 
-This repository demonstrates how to call the [MongoDB Atlas Administration API](https://www.mongodb.com/docs/atlas/api/) using Service Account authentication. You can read the accompanying article ['Calling the MongoDB Atlas Admin API - How to do it from Node, Python, and Golang'](https://www.mongodb.com/developer/how-to/{placeholder}) for more information.
+This repository demonstrates how to call the [MongoDB Atlas Administration API](https://www.mongodb.com/docs/atlas/api/) using Service Account authentication. You can read the accompanying article [on MongoDB blog](https://www.mongodb.com/developer/products/mongodb/mongodb-atlas-authentication-using-service-accounts-oauth/) for more information.
 
 ## Setup
 
